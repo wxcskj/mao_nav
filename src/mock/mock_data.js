@@ -346,6 +346,118 @@ export const mockData = {
           "url": "https://www.adobe.com/products/xd.html",
           "description": "用户体验设计工具",
           "icon": "/sitelogo/www.adobe.com.ico"
+        },
+        {
+          "id": "site-1770593171157",
+          "name": "MagicQuill（神奇羽毛）",
+          "url": "https://huggingface.co/spaces/AI4Editing/MagicQuill",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/huggingface.co"
+        },
+        {
+          "id": "site-1770593183942",
+          "name": "背景文字添加神器",
+          "url": "https://textbehindimage.app/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/textbehindimage.app"
+        },
+        {
+          "id": "site-1770593213395",
+          "name": "Finegrain Image Enhancer",
+          "url": "https://huggingface.co/spaces/finegrain/finegrain-image-enhancer",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/huggingface.co"
+        },
+        {
+          "id": "site-1770593223162",
+          "name": "Background Removal Tool",
+          "url": "https://huggingface.co/spaces/not-lain/background-removal",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/huggingface.co"
+        },
+        {
+          "id": "site-1770593607336",
+          "name": "鲜艺",
+          "url": "https://94xy.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/94xy.com"
+        },
+        {
+          "id": "site-1770593652382",
+          "name": "绘蛙",
+          "url": "https://www.ihuiwa.com/workspace/ai-image/partial-redraw",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.ihuiwa.com"
+        },
+        {
+          "id": "site-1770593943684",
+          "name": "易可图",
+          "url": "https://www.yiketu.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.yiketu.com"
+        },
+        {
+          "id": "site-1770594076715",
+          "name": "Bigjpg",
+          "url": "https://bigjpg.com/zh",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/bigjpg.com"
+        },
+        {
+          "id": "site-1770595712201",
+          "name": "remove.bg",
+          "url": "https://www.remove.bg/zh",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.remove.bg"
+        },
+        {
+          "id": "site-1770595735355",
+          "name": "Canva可画（国际）",
+          "url": "https://www.canva.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.canva.com"
+        },
+        {
+          "id": "site-1770595775724",
+          "name": "Canva可画（中国）",
+          "url": "https://www.canva.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.canva.cn"
+        },
+        {
+          "id": "site-1770595859899",
+          "name": "改图宝",
+          "url": "https://www.gaitubao.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.gaitubao.com"
+        },
+        {
+          "id": "site-1770595884252",
+          "name": "去水印",
+          "url": "https://img.logosc.cn",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/img.logosc.cn"
+        },
+        {
+          "id": "site-1770595897583",
+          "name": "牛学长",
+          "url": "https://online.niuxuezhang.cn/online-photo-watermark-remover",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/online.niuxuezhang.cn"
+        },
+        {
+          "id": "site-1770595910889",
+          "name": "Photopea",
+          "url": "https://www.photopea.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.photopea.com"
+        },
+        {
+          "id": "site-1770595933830",
+          "name": "无痕去水印",
+          "url": "https://www.wuhenqushuiyin.com/sub-image-watermark/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.wuhenqushuiyin.com"
         }
       ]
     },
@@ -1032,120 +1144,7 @@ export const mockData = {
       "icon": "📁",
       "name": "图片处理",
       "order": 20,
-      "sites": [
-        {
-          "id": "site-1770593171157",
-          "name": "MagicQuill（神奇羽毛）",
-          "url": "https://huggingface.co/spaces/AI4Editing/MagicQuill",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/huggingface.co"
-        },
-        {
-          "id": "site-1770593183942",
-          "name": "背景文字添加神器",
-          "url": "https://textbehindimage.app/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/textbehindimage.app"
-        },
-        {
-          "id": "site-1770593213395",
-          "name": "Finegrain Image Enhancer",
-          "url": "https://huggingface.co/spaces/finegrain/finegrain-image-enhancer",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/huggingface.co"
-        },
-        {
-          "id": "site-1770593223162",
-          "name": "Background Removal Tool",
-          "url": "https://huggingface.co/spaces/not-lain/background-removal",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/huggingface.co"
-        },
-        {
-          "id": "site-1770593607336",
-          "name": "鲜艺",
-          "url": "https://94xy.com",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/94xy.com"
-        },
-        {
-          "id": "site-1770593652382",
-          "name": "绘蛙",
-          "url": "https://www.ihuiwa.com/workspace/ai-image/partial-redraw",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.ihuiwa.com"
-        },
-        {
-          "id": "site-1770593943684",
-          "name": "易可图",
-          "url": "https://www.yiketu.com/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.yiketu.com"
-        },
-        {
-          "id": "site-1770594076715",
-          "name": "Bigjpg",
-          "url": "https://bigjpg.com/zh",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/bigjpg.com"
-        },
-        {
-          "id": "site-1770595712201",
-          "name": "remove.bg",
-          "url": "https://www.remove.bg/zh",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.remove.bg"
-        },
-        {
-          "id": "site-1770595735355",
-          "name": "Canva可画（国际）",
-          "url": "https://www.canva.com",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.canva.com"
-        },
-        {
-          "id": "site-1770595775724",
-          "name": "Canva可画（中国）",
-          "url": "https://www.canva.cn/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.canva.cn"
-        },
-        {
-          "id": "site-1770595859899",
-          "name": "改图宝",
-          "url": "https://www.gaitubao.com/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.gaitubao.com"
-        },
-        {
-          "id": "site-1770595884252",
-          "name": "去水印",
-          "url": "https://img.logosc.cn",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/img.logosc.cn"
-        },
-        {
-          "id": "site-1770595897583",
-          "name": "牛学长",
-          "url": "https://online.niuxuezhang.cn/online-photo-watermark-remover",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/online.niuxuezhang.cn"
-        },
-        {
-          "id": "site-1770595910889",
-          "name": "Photopea",
-          "url": "https://www.photopea.com/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.photopea.com"
-        },
-        {
-          "id": "site-1770595933830",
-          "name": "无痕去水印",
-          "url": "https://www.wuhenqushuiyin.com/sub-image-watermark/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.wuhenqushuiyin.com"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "category-1770592637286",
