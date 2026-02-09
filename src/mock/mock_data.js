@@ -331,6 +331,13 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "/sitelogo/www.52pojie.cn.ico"
+        },
+        {
+          "id": "site-1770629423140",
+          "name": "恩山论坛",
+          "url": "https://www.right.com.cn/",
+          "description": "无线路由器交流",
+          "icon": "https://www.faviconextractor.com/favicon/www.right.com.cn"
         }
       ]
     },
