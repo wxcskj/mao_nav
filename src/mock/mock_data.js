@@ -1610,20 +1610,6 @@ export const mockData = {
       "order": 29,
       "sites": [
         {
-          "id": "site-1770593048074",
-          "name": "CRM",
-          "url": "http://192.168.2.13:8081",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/192.168.2.13:8081"
-        },
-        {
-          "id": "site-1770593076053",
-          "name": "618云",
-          "url": "https://618111.xyz/n7fBrKmX",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/618111.xyz"
-        },
-        {
           "id": "site-1770593786777",
           "name": "携趣IP_后台",
           "url": "https://www.xiequ.cn/redirect.aspx?act=BaseUserInfo.aspx",
