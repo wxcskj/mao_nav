@@ -528,7 +528,78 @@ export const mockData = {
       "icon": "📁",
       "name": "111",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1770587406827",
+          "name": "LMArena",
+          "url": "https://lmarena.ai/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/lmarena.ai"
+        },
+        {
+          "id": "site-1770587415579",
+          "name": "Flowith",
+          "url": "https://flowith.io/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/flowith.io"
+        },
+        {
+          "id": "site-1770587424431",
+          "name": "Grok",
+          "url": "https://grok.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/grok.com"
+        },
+        {
+          "id": "site-1770587433289",
+          "name": "DeepSeek",
+          "url": "https://chat.deepseek.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/chat.deepseek.com"
+        },
+        {
+          "id": "site-1770587442128",
+          "name": "notdiamond",
+          "url": "https://chat.notdiamond.ai/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/chat.notdiamond.ai"
+        },
+        {
+          "id": "site-1770587450925",
+          "name": "You",
+          "url": "https://you.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/you.com"
+        },
+        {
+          "id": "site-1770587459738",
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/chatgpt.com"
+        },
+        {
+          "id": "site-1770587468468",
+          "name": "POE",
+          "url": "https://poe.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/poe.com"
+        },
+        {
+          "id": "site-1770587477259",
+          "name": "Kimi",
+          "url": "https://kimi.moonshot.cn",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/kimi.moonshot.cn"
+        },
+        {
+          "id": "site-1770587486062",
+          "name": "文心一言",
+          "url": "https://yiyan.baidu.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/yiyan.baidu.com"
+        }
+      ]
     }
   ],
   "title": "吾爱导航🐱",
