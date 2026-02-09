@@ -761,6 +761,13 @@ export const mockData = {
           "url": "https://hellowindows.cn",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/hellowindows.cn"
+        },
+        {
+          "id": "site-1770629633940",
+          "name": "柴郡猫",
+          "url": "https://www.cheshirex.com/category/ziyuan",
+          "description": "wordpress破解主题",
+          "icon": "https://www.faviconextractor.com/favicon/www.cheshirex.com"
         }
       ]
     },
