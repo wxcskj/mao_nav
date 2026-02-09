@@ -485,7 +485,43 @@ export const mockData = {
       "icon": "📁",
       "name": "提示词",
       "order": 11,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1770585334629",
+          "name": "YouMind",
+          "url": "https://youmind.com/zh-CN/nano-banana-pro-prompts",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/youmind.com"
+        },
+        {
+          "id": "site-1770585358626",
+          "name": "ExplainThis",
+          "url": "https://www.explainthis.io/zh-hans/chatgpt",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.explainthis.io"
+        },
+        {
+          "id": "site-1770585367418",
+          "name": "AI Short",
+          "url": "https://www.aishort.top/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.aishort.top"
+        },
+        {
+          "id": "site-1770585378189",
+          "name": "Edit prompt",
+          "url": "https://platform.openai.com/chat/edit?models=gpt-5&optimize=true",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/platform.openai.com"
+        },
+        {
+          "id": "site-1770585388436",
+          "name": "跨境电商 ChatGPT 提示词生成器",
+          "url": "https://kua.aigenprompt.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/kua.aigenprompt.com"
+        }
+      ]
     },
     {
       "id": "category-1770585097214",
