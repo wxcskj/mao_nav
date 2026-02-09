@@ -685,6 +685,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/fxg.jinritemai.com"
         }
       ]
+    },
+    {
+      "id": "category-1770592164240",
+      "icon": "📁",
+      "name": "111",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "吾爱导航🐱",
