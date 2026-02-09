@@ -598,6 +598,27 @@ export const mockData = {
           "url": "https://yiyan.baidu.com",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/yiyan.baidu.com"
+        },
+        {
+          "id": "site-1770591360809",
+          "name": "豆包",
+          "url": "https://www.doubao.com",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1770591387881",
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/copilot.microsoft.com"
+        },
+        {
+          "id": "site-1770591421211",
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     }
