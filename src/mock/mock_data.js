@@ -635,6 +635,83 @@ export const mockData = {
           "url": "https://www.iconfont.cn/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1770593014091",
+          "name": "CCTV 片库",
+          "url": "https://tv.cctv.com/yxg/index.shtml",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/tv.cctv.com"
+        },
+        {
+          "id": "site-1770593484168",
+          "name": "音乐搜索器",
+          "url": "http://www.xmsj.org",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.xmsj.org"
+        },
+        {
+          "id": "site-1770593796588",
+          "name": "冰楓論壇",
+          "url": "https://bingfong.com/forum-movie-1.html",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/bingfong.com"
+        },
+        {
+          "id": "site-1770593806459",
+          "name": "豆瓣电影",
+          "url": "https://movie.douban.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/movie.douban.com"
+        },
+        {
+          "id": "site-1770593816404",
+          "name": "阳光电影",
+          "url": "https://www.dytt8.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.dytt8.com"
+        },
+        {
+          "id": "site-1770593826176",
+          "name": "字幕库",
+          "url": "https://zimuku.vip",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/zimuku.vip"
+        },
+        {
+          "id": "site-1770593844702",
+          "name": "torrenting",
+          "url": "https://www.torrenting.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.torrenting.com"
+        },
+        {
+          "id": "site-1770595747039",
+          "name": "磁力熊",
+          "url": "https://www.cilixiong.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.cilixiong.com"
+        },
+        {
+          "id": "site-1770595788301",
+          "name": "海盗湾",
+          "url": "https://thepiratebay10.xyz",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/thepiratebay10.xyz"
+        },
+        {
+          "id": "site-1770595812252",
+          "name": "电影天堂",
+          "url": "https://www.dygod.net",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.dygod.net"
+        },
+        {
+          "id": "site-1770595823038",
+          "name": "SubHD",
+          "url": "https://subhd.tv",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/subhd.tv"
         }
       ]
     },
@@ -879,85 +956,7 @@ export const mockData = {
       "icon": "📁",
       "name": "高清片源",
       "order": 0,
-      "sites": [
-        {
-          "id": "site-1770593014091",
-          "name": "CCTV 片库",
-          "url": "https://tv.cctv.com/yxg/index.shtml",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/tv.cctv.com"
-        },
-        {
-          "id": "site-1770593484168",
-          "name": "音乐搜索器",
-          "url": "http://www.xmsj.org",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.xmsj.org"
-        },
-        {
-          "id": "site-1770593796588",
-          "name": "冰楓論壇",
-          "url": "https://bingfong.com/forum-movie-1.html",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/bingfong.com"
-        },
-        {
-          "id": "site-1770593806459",
-          "name": "豆瓣电影",
-          "url": "https://movie.douban.com/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/movie.douban.com"
-        },
-        {
-          "id": "site-1770593816404",
-          "name": "阳光电影",
-          "url": "https://www.dytt8.com",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.dytt8.com"
-        },
-        {
-          "id": "site-1770593826176",
-          "name": "字幕库",
-          "url": "https://zimuku.vip",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/zimuku.vip"
-        },
-        {
-          "id": "site-1770593844702",
-          "name": "torrenting",
-          "url": "https://www.torrenting.com",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.torrenting.com"
-        },
-        {
-          "id": "site-1770595747039",
-          "name": "磁力熊",
-          "url": "https://www.cilixiong.com",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.cilixiong.com"
-        },
-        {
-          "id": "site-1770595788301",
-          "name": "海盗湾",
-          "url": "https://thepiratebay10.xyz",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/thepiratebay10.xyz"
-        },
-        {
-          "id": "site-1770595812252",
-          "name": "电影天堂",
-          "url": "https://www.dygod.net",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.dygod.net"
-        },
-        {
-          "id": "site-1770595823038",
-          "name": "SubHD",
-          "url": "https://subhd.tv",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/subhd.tv"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "category-1770592581993",
