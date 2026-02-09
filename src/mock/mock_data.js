@@ -1610,13 +1610,6 @@ export const mockData = {
       "order": 29,
       "sites": [
         {
-          "id": "site-1770593037163",
-          "name": "Home Assistant",
-          "url": "http://192.168.0.1:8123",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/192.168.0.1:8123"
-        },
-        {
           "id": "site-1770593048074",
           "name": "CRM",
           "url": "http://192.168.2.13:8081",
