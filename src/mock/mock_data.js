@@ -479,9 +479,15 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1770609532437",
+      "icon": "📁",
+      "name": "提示词",
+      "order": 11,
+      "sites": []
     }
   ],
   "title": "吾爱导航🐱",
-  "_fileSha": "68114f373543cd800b42a77387ea388aa42af687",
   "search": "google"
 }
