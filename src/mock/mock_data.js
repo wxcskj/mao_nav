@@ -127,13 +127,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/you.com"
         },
         {
-          "id": "site-1770587459738",
-          "name": "ChatGPT",
-          "url": "https://chatgpt.com/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/chatgpt.com"
-        },
-        {
           "id": "site-1770587468468",
           "name": "POE",
           "url": "https://poe.com/",
