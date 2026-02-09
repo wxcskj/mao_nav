@@ -691,56 +691,379 @@ export const mockData = {
       "icon": "📁",
       "name": "高清片源",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1770593014091",
+          "name": "CCTV 片库",
+          "url": "https://tv.cctv.com/yxg/index.shtml",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/tv.cctv.com"
+        },
+        {
+          "id": "site-1770593484168",
+          "name": "音乐搜索器",
+          "url": "http://www.xmsj.org",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.xmsj.org"
+        },
+        {
+          "id": "site-1770593796588",
+          "name": "冰楓論壇",
+          "url": "https://bingfong.com/forum-movie-1.html",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/bingfong.com"
+        },
+        {
+          "id": "site-1770593806459",
+          "name": "豆瓣电影",
+          "url": "https://movie.douban.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/movie.douban.com"
+        },
+        {
+          "id": "site-1770593816404",
+          "name": "阳光电影",
+          "url": "https://www.dytt8.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.dytt8.com"
+        },
+        {
+          "id": "site-1770593826176",
+          "name": "字幕库",
+          "url": "https://zimuku.vip",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/zimuku.vip"
+        },
+        {
+          "id": "site-1770593844702",
+          "name": "torrenting",
+          "url": "https://www.torrenting.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.torrenting.com"
+        }
+      ]
     },
     {
       "id": "category-1770592581993",
       "icon": "📁",
       "name": "格式转换",
       "order": 15,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1770593474188",
+          "name": "移除空格",
+          "url": "https://hkcoding.com/sc/remove-space-newline",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/hkcoding.com"
+        },
+        {
+          "id": "site-1770593500092",
+          "name": "文字去重",
+          "url": "https://uutool.cn/unique/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/uutool.cn"
+        },
+        {
+          "id": "site-1770593509914",
+          "name": "文字打乱",
+          "url": "https://uutool.cn/section-shuffle/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/uutool.cn"
+        },
+        {
+          "id": "site-1770593580894",
+          "name": "在线HTML源码工具",
+          "url": "https://tools.bugscaner.com/bs4.html",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/tools.bugscaner.com"
+        }
+      ]
     },
     {
       "id": "category-1770592594407",
       "icon": "📁",
       "name": "平面素材",
       "order": 16,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1770594456883",
+          "name": "iconfont",
+          "url": "https://www.iconfont.cn/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "category-1770592604185",
       "icon": "📁",
       "name": "软件资源",
       "order": 17,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1770593004285",
+          "name": "LITEAPKS（教育 apk）",
+          "url": "https://liteapks.com/apps/education",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/liteapks.com"
+        },
+        {
+          "id": "site-1770593265009",
+          "name": "异星软件空间",
+          "url": "https://www.yxssp.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.yxssp.com"
+        },
+        {
+          "id": "site-1770593277039",
+          "name": "离线Chrome",
+          "url": "https://www.iplaysoft.com/tools/chrome/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.iplaysoft.com"
+        },
+        {
+          "id": "site-1770593864604",
+          "name": "国王软件",
+          "url": "https://www.52king.vip/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.52king.vip"
+        },
+        {
+          "id": "site-1770593879473",
+          "name": "绿软小站",
+          "url": "https://www.gndown.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.gndown.com"
+        }
+      ]
     },
     {
       "id": "category-1770592612452",
       "icon": "📁",
       "name": "视频处理",
       "order": 18,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1770593309441",
+          "name": "unWatermark",
+          "url": "https://unwatermark.ai/video-subtitles-remover/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/unwatermark.ai"
+        },
+        {
+          "id": "site-1770593321294",
+          "name": "Vmake",
+          "url": "https://vmake.ai/video-watermark-remover/upload",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/vmake.ai"
+        },
+        {
+          "id": "site-1770593334149",
+          "name": "VidAU",
+          "url": "https://www.vidau.ai/subtitles-remover",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.vidau.ai"
+        },
+        {
+          "id": "site-1770593348549",
+          "name": "AniEraser",
+          "url": "https://anieraser.media.io/app/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/anieraser.media.io"
+        },
+        {
+          "id": "site-1770593407714",
+          "name": "快剪辑",
+          "url": "https://www.kuaijianji.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.kuaijianji.com"
+        },
+        {
+          "id": "site-1770593429134",
+          "name": "视频擦除",
+          "url": "https://cn.jollytoday.com/subtitle/editor3/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/cn.jollytoday.com"
+        },
+        {
+          "id": "site-1770593448710",
+          "name": "OpenCut",
+          "url": "https://opencut.net",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/opencut.net"
+        },
+        {
+          "id": "site-1770593688412",
+          "name": "剪映一键关键帧",
+          "url": "https://keyframeai.top",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/keyframeai.top"
+        }
+      ]
     },
     {
       "id": "category-1770592621757",
       "icon": "📁",
       "name": "视频下载",
       "order": 19,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1770593090596",
+          "name": "AnyToCopy",
+          "url": "https://www.anytocopy.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.anytocopy.com"
+        },
+        {
+          "id": "site-1770593236921",
+          "name": "下载狗",
+          "url": "https://www.xiazaitool.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.xiazaitool.com"
+        },
+        {
+          "id": "site-1770593924583",
+          "name": "魔音",
+          "url": "https://www.moyin.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.moyin.com"
+        }
+      ]
     },
     {
       "id": "category-1770592629322",
       "icon": "📁",
       "name": "图片处理",
       "order": 20,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1770593171157",
+          "name": "MagicQuill（神奇羽毛）",
+          "url": "https://huggingface.co/spaces/AI4Editing/MagicQuill",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/huggingface.co"
+        },
+        {
+          "id": "site-1770593183942",
+          "name": "背景文字添加神器",
+          "url": "https://textbehindimage.app/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/textbehindimage.app"
+        },
+        {
+          "id": "site-1770593213395",
+          "name": "Finegrain Image Enhancer",
+          "url": "https://huggingface.co/spaces/finegrain/finegrain-image-enhancer",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/huggingface.co"
+        },
+        {
+          "id": "site-1770593223162",
+          "name": "Background Removal Tool",
+          "url": "https://huggingface.co/spaces/not-lain/background-removal",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/huggingface.co"
+        },
+        {
+          "id": "site-1770593607336",
+          "name": "鲜艺",
+          "url": "https://94xy.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/94xy.com"
+        },
+        {
+          "id": "site-1770593652382",
+          "name": "绘蛙",
+          "url": "https://www.ihuiwa.com/workspace/ai-image/partial-redraw",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.ihuiwa.com"
+        },
+        {
+          "id": "site-1770593943684",
+          "name": "易可图",
+          "url": "https://www.yiketu.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.yiketu.com"
+        },
+        {
+          "id": "site-1770594076715",
+          "name": "Bigjpg",
+          "url": "https://bigjpg.com/zh",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/bigjpg.com"
+        }
+      ]
     },
     {
       "id": "category-1770592637286",
       "icon": "📁",
       "name": "图像生成",
       "order": 21,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1770593102660",
+          "name": "Nano Banana",
+          "url": "https://aistudio.google.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/aistudio.google.com"
+        },
+        {
+          "id": "site-1770593140717",
+          "name": "Sora2",
+          "url": "https://sora.chatgpt.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/sora.chatgpt.com"
+        },
+        {
+          "id": "site-1770593193769",
+          "name": "UniPortrait",
+          "url": "https://huggingface.co/spaces/Junjie96/UniPortrait",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/huggingface.co"
+        },
+        {
+          "id": "site-1770593203566",
+          "name": "AI 人物换装",
+          "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/huggingface.co"
+        },
+        {
+          "id": "site-1770593373497",
+          "name": "KreadoAI",
+          "url": "https://www.kreadoai.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.kreadoai.com"
+        },
+        {
+          "id": "site-1770593385342",
+          "name": "Recraft",
+          "url": "https://www.recraft.ai/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.recraft.ai"
+        },
+        {
+          "id": "site-1770593592874",
+          "name": "Fish Audio",
+          "url": "https://fish.audio",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/fish.audio"
+        },
+        {
+          "id": "site-1770593635873",
+          "name": "腾讯智影",
+          "url": "https://zenvideo.qq.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/zenvideo.qq.com"
+        },
+        {
+          "id": "site-1770593671259",
+          "name": "KLING AI",
+          "url": "https://app.klingai.com/global/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/app.klingai.com"
+        }
+      ]
     },
     {
       "id": "category-1770592645310",
@@ -754,7 +1077,85 @@ export const mockData = {
       "icon": "📁",
       "name": "文字生成",
       "order": 23,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1770593159427",
+          "name": "Coze 扣子",
+          "url": "https://www.coze.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.coze.cn"
+        },
+        {
+          "id": "site-1770593362035",
+          "name": "Excel AI",
+          "url": "https://app.formulabot.com/excel-ai",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/app.formulabot.com"
+        },
+        {
+          "id": "site-1770594091116",
+          "name": "橙篇",
+          "url": "https://cp.baidu.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/cp.baidu.com"
+        },
+        {
+          "id": "site-1770594108667",
+          "name": "火山写作",
+          "url": "https://www.writingo.net/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.writingo.net"
+        },
+        {
+          "id": "site-1770594122358",
+          "name": "讯飞绘文",
+          "url": "https://turbodesk.xfyun.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/turbodesk.xfyun.cn"
+        },
+        {
+          "id": "site-1770594139218",
+          "name": "讯飞公文写作",
+          "url": "https://gw.iflydocs.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/gw.iflydocs.com"
+        },
+        {
+          "id": "site-1770594155874",
+          "name": "光速写作",
+          "url": "https://www.guangsuxie.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.guangsuxie.com"
+        },
+        {
+          "id": "site-1770594176497",
+          "name": "新华妙笔",
+          "url": "https://miaobi.xinhuaskl.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/miaobi.xinhuaskl.com"
+        },
+        {
+          "id": "site-1770594191863",
+          "name": "讯飞写作",
+          "url": "https://huixie.iflyrec.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/huixie.iflyrec.com"
+        },
+        {
+          "id": "site-1770594208584",
+          "name": "Paperpal",
+          "url": "https://www.editage.cn/paperpal?utm_source=ai-bot&utm_medium=Banner&utm_campaign=Banner",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.editage.cn"
+        },
+        {
+          "id": "site-1770594232022",
+          "name": "笔灵AI",
+          "url": "https://ibiling.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ibiling.cn"
+        }
+      ]
     },
     {
       "id": "category-1770592660753",
@@ -768,7 +1169,36 @@ export const mockData = {
       "icon": "📁",
       "name": "业务运营",
       "order": 25,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1770593960289",
+          "name": "大象工作台（美团云客服）",
+          "url": "https://x.sankuai.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/x.sankuai.com"
+        },
+        {
+          "id": "site-1770593985943",
+          "name": "星云工作台（蚂蚁云客服）",
+          "url": "https://starcloud.antgroup.com/nebula/home",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/starcloud.antgroup.com"
+        },
+        {
+          "id": "site-1770594019137",
+          "name": "中国农业银行（企业银行）",
+          "url": "https://ebank.abchina.com.cn/CorporServCloud/cfsp-static/#/login",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ebank.abchina.com.cn"
+        },
+        {
+          "id": "site-1770594060674",
+          "name": "电子税务局（开票）",
+          "url": "https://etax.jiangsu.chinatax.gov.cn/sso/login",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/etax.jiangsu.chinatax.gov.cn"
+        }
+      ]
     },
     {
       "id": "category-1770592677287",
@@ -782,21 +1212,122 @@ export const mockData = {
       "icon": "📁",
       "name": "在线信息",
       "order": 27,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1770593026357",
+          "name": "美国地址生成器",
+          "url": "https://www.meiguodizhi.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.meiguodizhi.com"
+        },
+        {
+          "id": "site-1770593248010",
+          "name": "WebSSH",
+          "url": "https://webssh.bytevirt.net/?encoding=utf-8",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/webssh.bytevirt.net"
+        },
+        {
+          "id": "site-1770593298607",
+          "name": "随机端口生成",
+          "url": "https://www.oschina.net/tool_beta/random-port-generator",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.oschina.net"
+        },
+        {
+          "id": "site-1770593460928",
+          "name": "临时邮箱",
+          "url": "https://www.linshiyouxiang.net",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.linshiyouxiang.net"
+        },
+        {
+          "id": "site-1770593620271",
+          "name": "Receive SMS Online",
+          "url": "https://receive-smss.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/receive-smss.com"
+        }
+      ]
     },
     {
       "id": "category-1770592692994",
       "icon": "📁",
       "name": "找工作",
       "order": 28,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1770593129208",
+          "name": "电鸭",
+          "url": "https://eleduck.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/eleduck.com"
+        },
+        {
+          "id": "site-1770593712829",
+          "name": "猎聘",
+          "url": "https://www.liepin.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.liepin.com"
+        },
+        {
+          "id": "site-1770593725993",
+          "name": "智联招聘",
+          "url": "https://www.zhaopin.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.zhaopin.com"
+        },
+        {
+          "id": "site-1770593746260",
+          "name": "前程无忧",
+          "url": "https://www.51job.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.51job.com"
+        },
+        {
+          "id": "site-1770593764974",
+          "name": "BOSS直聘",
+          "url": "https://www.zhipin.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.zhipin.com"
+        }
+      ]
     },
     {
       "id": "category-1770592700512",
       "icon": "📁",
       "name": "自建系统",
       "order": 29,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1770593037163",
+          "name": "Home Assistant",
+          "url": "http://192.168.0.1:8123",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/192.168.0.1:8123"
+        },
+        {
+          "id": "site-1770593048074",
+          "name": "CRM",
+          "url": "http://192.168.2.13:8081",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/192.168.2.13:8081"
+        },
+        {
+          "id": "site-1770593076053",
+          "name": "618云",
+          "url": "https://618111.xyz/n7fBrKmX",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/618111.xyz"
+        },
+        {
+          "id": "site-1770593786777",
+          "name": "携趣IP_后台",
+          "url": "https://www.xiequ.cn/redirect.aspx?act=BaseUserInfo.aspx",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.xiequ.cn"
+        }
+      ]
     }
   ],
   "title": "吾爱导航🐱",
