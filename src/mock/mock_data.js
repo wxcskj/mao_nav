@@ -64,13 +64,6 @@ export const mockData = {
           "icon": "/sitelogo/claude.ai.ico"
         },
         {
-          "id": "midjourney",
-          "name": "Midjourney",
-          "url": "https://www.midjourney.com",
-          "description": "AI图像生成工具",
-          "icon": "/sitelogo/www.midjourney.com.ico"
-        },
-        {
           "id": "copilot",
           "name": "GitHub Copilot",
           "url": "https://github.com/features/copilot",
@@ -1280,11 +1273,11 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/vectorizer.ai"
         },
         {
-          "id": "site-1770596202160",
+          "id": "midjourney",
           "name": "Midjourney",
           "url": "https://www.midjourney.com",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.midjourney.com"
+          "description": "AI图像生成工具",
+          "icon": "/sitelogo/www.midjourney.com.ico"
         }
       ]
     },
