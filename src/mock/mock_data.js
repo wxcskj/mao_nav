@@ -1489,13 +1489,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1770592677287",
-      "icon": "📁",
-      "name": "在线工具",
-      "order": 26,
-      "sites": []
-    },
-    {
       "id": "category-1770592685312",
       "icon": "📁",
       "name": "在线信息",
