@@ -527,7 +527,7 @@ export const mockData = {
     },
     {
       "id": "learning",
-      "name": "学习资源",
+      "name": "资源合集",
       "icon": "📚",
       "order": 6,
       "sites": [
@@ -628,6 +628,13 @@ export const mockData = {
           "url": "https://www.netjue.com/tags",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.netjue.com"
+        },
+        {
+          "id": "site-1770594456883",
+          "name": "iconfont",
+          "url": "https://www.iconfont.cn/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -993,15 +1000,7 @@ export const mockData = {
       "icon": "📁",
       "name": "平面素材",
       "order": 16,
-      "sites": [
-        {
-          "id": "site-1770594456883",
-          "name": "iconfont",
-          "url": "https://www.iconfont.cn/",
-          "description": "",
-          "icon": ""
-        }
-      ]
+      "sites": []
     },
     {
       "id": "category-1770592604185",
