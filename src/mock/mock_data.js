@@ -768,6 +768,20 @@ export const mockData = {
           "url": "https://www.cheshirex.com/category/ziyuan",
           "description": "wordpress破解主题",
           "icon": "https://www.faviconextractor.com/favicon/www.cheshirex.com"
+        },
+        {
+          "id": "site-1770595609219",
+          "name": "FreeWPlugin",
+          "url": "https://www.freewplugin.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.freewplugin.com"
+        },
+        {
+          "id": "site-1770595638858",
+          "name": "宝塔纯净版",
+          "url": "https://baota.sbs",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/baota.sbs"
         }
       ]
     },
@@ -846,6 +860,20 @@ export const mockData = {
           "url": "https://tools.bugscaner.com/bs4.html",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/tools.bugscaner.com"
+        },
+        {
+          "id": "site-1770595589379",
+          "name": "松松站长工具",
+          "url": "https://tool.lusongsong.com",
+          "description": "网站",
+          "icon": "https://www.faviconextractor.com/favicon/tool.lusongsong.com"
+        },
+        {
+          "id": "site-1770595579535",
+          "name": "NameSilo",
+          "url": "https://www.namesilo.com",
+          "description": "网站",
+          "icon": "https://www.faviconextractor.com/favicon/www.namesilo.com"
         }
       ]
     },
@@ -1027,13 +1055,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/fxg.jinritemai.com"
         }
       ]
-    },
-    {
-      "id": "category-1770592581993",
-      "icon": "📁",
-      "name": "格式转换",
-      "order": 15,
-      "sites": []
     },
     {
       "id": "category-1770592612452",
@@ -1294,42 +1315,6 @@ export const mockData = {
           "url": "https://www.midjourney.com",
           "description": "AI图像生成工具",
           "icon": "/sitelogo/www.midjourney.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "category-1770592645310",
-      "icon": "📁",
-      "name": "网站运维",
-      "order": 22,
-      "sites": [
-        {
-          "id": "site-1770595579535",
-          "name": "NameSilo",
-          "url": "https://www.namesilo.com",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.namesilo.com"
-        },
-        {
-          "id": "site-1770595589379",
-          "name": "松松站长工具",
-          "url": "https://tool.lusongsong.com",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/tool.lusongsong.com"
-        },
-        {
-          "id": "site-1770595609219",
-          "name": "FreeWPlugin",
-          "url": "https://www.freewplugin.com",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.freewplugin.com"
-        },
-        {
-          "id": "site-1770595638858",
-          "name": "宝塔纯净版",
-          "url": "https://baota.sbs",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/baota.sbs"
         }
       ]
     },
