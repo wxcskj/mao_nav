@@ -238,6 +238,13 @@ export const mockData = {
           "url": "https://my.racknerd.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/my.racknerd.com"
+        },
+        {
+          "id": "site-1770629579785",
+          "name": "Wispbyte",
+          "url": "https://wispbyte.com/client/dashboard",
+          "description": "免费VPS（德国ip）",
+          "icon": "https://www.faviconextractor.com/favicon/wispbyte.com"
         }
       ]
     },
