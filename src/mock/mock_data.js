@@ -152,7 +152,7 @@ export const mockData = {
           "name": "Gemini",
           "url": "https://gemini.google.com/",
           "description": "谷歌出品",
-          "icon": ""
+          "icon": "/sitelogo/google_icon.ico"
         }
       ]
     },
