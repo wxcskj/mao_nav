@@ -623,11 +623,11 @@ onUnmounted(() => {
 }
 
 /* 左侧边栏底部 */
-.sidebar-footer {
+/*.sidebar-footer {
   padding: 20px;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
   margin-top: auto;
-}
+}*/
 
 .github-link {
   display: flex;
