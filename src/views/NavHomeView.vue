@@ -53,7 +53,7 @@
       </nav>
 
       <!-- 左侧边栏底部信息 -->
-      <!-- <div class="sidebar-footer">
+      <div class="sidebar-footer">
         <a
           href="https://github.com/maodeyu180/mao_nav"
           target="_blank"
@@ -66,7 +66,7 @@
           </svg>
           <span>开源不易，Star一下吧！⭐</span>
         </a>
-      </div>-->
+      </div>
     </aside>
 
     <!-- 右侧主内容区 -->
@@ -577,7 +577,7 @@ onUnmounted(() => {
 
 .category-nav {
   padding: 20px 0;
-  /*height: calc(100vh - 180px);  为底部留出空间 */
+  height: calc(100vh - 180px); /* 为底部留出空间 */
   overflow-y: auto;
 }
 
@@ -623,11 +623,12 @@ onUnmounted(() => {
 }
 
 /* 左侧边栏底部 */
-/*.sidebar-footer {
+.sidebar-footer {
+  display: none; /* 添加这一行 */
   padding: 20px;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
   margin-top: auto;
-}*/
+}
 
 .github-link {
   display: flex;
