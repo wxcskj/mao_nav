@@ -38,7 +38,7 @@
 
       <!-- 分类导航 -->
       <nav class="category-nav">
-        <h2 class="nav-title">分类导航</h2>
+       <!-- <h2 class="nav-title">分类导航</h2>-->
                 <ul class="category-list">
           <li
             v-for="category in categories"
