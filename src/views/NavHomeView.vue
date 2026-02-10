@@ -114,7 +114,7 @@
           <div class="mobile-menu-header">
             <div class="header-left">
               <h3>分类导航</h3>
-              <img :src="githubLogo" alt="GitHub" class="header-github-icon" @click="openGitHub" />
+              <!--<img :src="githubLogo" alt="GitHub" class="header-github-icon" @click="openGitHub" />-->
             </div>
             <button class="close-btn" @click="closeMobileMenu">×</button>
           </div>
