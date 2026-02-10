@@ -138,7 +138,7 @@ export const mockData = {
           "name": "豆包",
           "url": "https://www.doubao.com",
           "description": "字节出品",
-          "icon": ""
+          "icon": "/sitelogo/doubao_icon.ico"
         },
         {
           "id": "site-1770591387881",
