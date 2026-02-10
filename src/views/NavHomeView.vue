@@ -577,7 +577,7 @@ onUnmounted(() => {
 
 .category-nav {
   padding: 20px 0;
-  height: calc(100vh - 180px); /* 为底部留出空间 */
+  height: calc(100vh - 80px); /* 为底部留出空间 */
   overflow-y: auto;
 }
 
