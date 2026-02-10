@@ -31,10 +31,10 @@
     <!-- 左侧边栏 -->
     <aside class="sidebar">
       <!-- Logo区域 -->
-      <div class="logo-section">
+      <!--<div class="logo-section">
         <img src="/logo.png" alt="logo" class="logo" />
         <h1 class="site-title">{{ title || '吾爱导航' }}</h1>
-      </div>
+      </div>-->
 
       <!-- 分类导航 -->
       <nav class="category-nav">
