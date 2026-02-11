@@ -1254,13 +1254,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/fish.audio"
         },
         {
-          "id": "site-1770593635873",
-          "name": "腾讯智影",
-          "url": "https://zenvideo.qq.com",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/zenvideo.qq.com"
-        },
-        {
           "id": "site-1770593671259",
           "name": "KLING AI",
           "url": "https://app.klingai.com/global/",
@@ -1358,13 +1351,6 @@ export const mockData = {
           "url": "https://cp.baidu.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/cp.baidu.com"
-        },
-        {
-          "id": "site-1770594108667",
-          "name": "火山写作",
-          "url": "https://www.writingo.net/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.writingo.net"
         },
         {
           "id": "site-1770594122358",
