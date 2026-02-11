@@ -1174,6 +1174,20 @@ export const mockData = {
           "url": "https://dlpanda.com",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/dlpanda.com"
+        },
+        {
+          "id": "site-1770769802083",
+          "name": "RSW Sora 2 Al Studio",
+          "url": "https://www.removesorawatermark.online/",
+          "description": "Sora 视频去水印",
+          "icon": "https://www.faviconextractor.com/favicon/www.removesorawatermark.online"
+        },
+        {
+          "id": "site-1770769847766",
+          "name": "ReelMoney",
+          "url": "https://reel.money/tools/remove-sora-watermark",
+          "description": "Sora视频去水印",
+          "icon": "https://www.faviconextractor.com/favicon/reel.money"
         }
       ]
     },
@@ -1555,6 +1569,5 @@ export const mockData = {
     }
   ],
   "title": "吾爱导航",
-  "search": "google",
-  "_fileSha": "8a0e8fa1a7c36f390c98b479ae6da7a0679ebf56"
+  "search": "google"
 }
