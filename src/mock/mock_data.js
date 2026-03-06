@@ -723,7 +723,7 @@ export const mockData = {
         {
           "id": "site-1770595788301",
           "name": "海盗湾",
-          "url": "https://thepiratebay10.xyz",
+          "url": "https://thepiratebay.org/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/thepiratebay10.xyz"
         },
