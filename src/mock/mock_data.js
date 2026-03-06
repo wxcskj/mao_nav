@@ -1514,6 +1514,13 @@ export const mockData = {
           "url": "https://onlinesim.io",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/onlinesim.io"
+        },
+        {
+          "id": "site-1772759620152",
+          "name": "TrackersListCollection",
+          "url": "https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
         }
       ]
     },
