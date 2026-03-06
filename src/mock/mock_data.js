@@ -33,13 +33,6 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
-        },
-        {
-          "id": "site-1772779512414",
-          "name": "M3U8 Player",
-          "url": "https://m3u8-player.net/",
-          "description": "M3U8 Player",
-          "icon": "https://www.faviconextractor.com/favicon/m3u8-player.net"
         }
       ]
     },
@@ -881,6 +874,13 @@ export const mockData = {
           "url": "https://tool.liumingye.cn/m3u8/",
           "description": "m3u8在线播放器",
           "icon": ""
+        },
+        {
+          "id": "site-1772779512414",
+          "name": "M3U8 Player",
+          "url": "https://m3u8-player.net/",
+          "description": "M3U8 Player",
+          "icon": "https://www.faviconextractor.com/favicon/m3u8-player.net"
         }
       ]
     },
