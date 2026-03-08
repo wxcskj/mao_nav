@@ -700,13 +700,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.dytt8.com"
         },
         {
-          "id": "site-1770593826176",
-          "name": "字幕库",
-          "url": "https://zimuku.vip",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/zimuku.vip"
-        },
-        {
           "id": "site-1770593844702",
           "name": "torrenting",
           "url": "https://www.torrenting.com",
