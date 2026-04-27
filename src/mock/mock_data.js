@@ -153,6 +153,13 @@ export const mockData = {
           "url": "https://gemini.google.com/",
           "description": "谷歌出品",
           "icon": "/sitelogo/google_icon.ico"
+        },
+        {
+          "id": "site-1777276211005",
+          "name": "闪剪",
+          "url": "https://app.shanjian.tv/",
+          "description": "数字人",
+          "icon": "https://www.faviconextractor.com/favicon/app.shanjian.tv"
         }
       ]
     },
