@@ -160,6 +160,20 @@ export const mockData = {
           "url": "https://app.shanjian.tv/",
           "description": "数字人",
           "icon": "https://www.faviconextractor.com/favicon/app.shanjian.tv"
+        },
+        {
+          "id": "site-1777289369372",
+          "name": "飞影数字人",
+          "url": "https://www.hifly.cc/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.hifly.cc"
+        },
+        {
+          "id": "site-1777289427291",
+          "name": "即创",
+          "url": "https://aic.oceanengine.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/aic.oceanengine.com"
         }
       ]
     },
