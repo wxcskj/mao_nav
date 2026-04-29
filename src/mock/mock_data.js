@@ -132,27 +132,6 @@ export const mockData = {
           "url": "https://gemini.google.com/",
           "description": "谷歌出品",
           "icon": "/sitelogo/google_icon.ico"
-        },
-        {
-          "id": "site-1777276211005",
-          "name": "闪剪",
-          "url": "https://app.shanjian.tv/",
-          "description": "数字人",
-          "icon": "https://www.faviconextractor.com/favicon/app.shanjian.tv"
-        },
-        {
-          "id": "site-1777289369372",
-          "name": "飞影数字人",
-          "url": "https://www.hifly.cc/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.hifly.cc"
-        },
-        {
-          "id": "site-1777289427291",
-          "name": "即创",
-          "url": "https://aic.oceanengine.com/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/aic.oceanengine.com"
         }
       ]
     },
@@ -246,7 +225,29 @@ export const mockData = {
       "name": "开发工具",
       "icon": "🛠️",
       "order": 3,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1777289427291",
+          "name": "即创",
+          "url": "https://aic.oceanengine.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/aic.oceanengine.com"
+        },
+        {
+          "id": "site-1777289369372",
+          "name": "飞影数字人",
+          "url": "https://www.hifly.cc/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.hifly.cc"
+        },
+        {
+          "id": "site-1777276211005",
+          "name": "闪剪",
+          "url": "https://app.shanjian.tv/",
+          "description": "数字人",
+          "icon": "https://www.faviconextractor.com/favicon/app.shanjian.tv"
+        }
+      ]
     },
     {
       "id": "community",
