@@ -1148,18 +1148,18 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/dlpanda.com"
         },
         {
-          "id": "site-1770769802083",
-          "name": "RSW Sora 2 Al Studio",
-          "url": "https://www.removesorawatermark.online/",
-          "description": "Sora 视频去水印",
-          "icon": "https://www.faviconextractor.com/favicon/www.removesorawatermark.online"
+          "id": "site-1777469220810",
+          "name": "Tube Down",
+          "url": "https://tubedown.cn/",
+          "description": "专注下载YouTube视频",
+          "icon": "https://www.faviconextractor.com/favicon/tubedown.cn"
         },
         {
-          "id": "site-1770769847766",
-          "name": "ReelMoney",
-          "url": "https://reel.money/tools/remove-sora-watermark",
-          "description": "Sora视频去水印",
-          "icon": "https://www.faviconextractor.com/favicon/reel.money"
+          "id": "site-1777469262418",
+          "name": "y2down",
+          "url": "https://y2down.cc/zhX5/",
+          "description": "YouTube下载器",
+          "icon": "https://www.faviconextractor.com/favicon/y2down.cc"
         }
       ]
     },
