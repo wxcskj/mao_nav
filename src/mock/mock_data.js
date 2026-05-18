@@ -1150,9 +1150,9 @@ export const mockData = {
         {
           "id": "site-1777469220810",
           "name": "Tube Down",
-          "url": "https://tubedown.cn/",
+          "url": "https://yt1s.com.co/en204/",
           "description": "专注下载YouTube视频",
-          "icon": "https://www.faviconextractor.com/favicon/tubedown.cn"
+          "icon": "https://www.faviconextractor.com/favicon/yt1s.com.co"
         },
         {
           "id": "site-1777469262418",
