@@ -33,6 +33,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1779524874391",
+          "name": "Promptr",
+          "url": "https://promptr.co/",
+          "description": "提词器",
+          "icon": "https://www.faviconextractor.com/favicon/promptr.co"
         }
       ]
     },
