@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://promptr.co/",
           "description": "提词器",
           "icon": "https://www.faviconextractor.com/favicon/promptr.co"
+        },
+        {
+          "id": "site-1782550457062",
+          "name": "Windows64",
+          "url": "https://windows64.net/",
+          "description": "windows俄罗斯精简系统",
+          "icon": "https://www.faviconextractor.com/favicon/windows64.net"
         }
       ]
     },
