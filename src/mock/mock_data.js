@@ -1301,6 +1301,20 @@ export const mockData = {
           "url": "https://www.midjourney.com",
           "description": "AI图像生成工具",
           "icon": "/sitelogo/www.midjourney.com.ico"
+        },
+        {
+          "id": "site-1787270984077",
+          "name": "即梦（国际）",
+          "url": "https://dreamina.capcut.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/dreamina.capcut.com"
+        },
+        {
+          "id": "site-1787271026594",
+          "name": "可灵（国际）",
+          "url": "https://kling.ai/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/kling.ai"
         }
       ]
     },
