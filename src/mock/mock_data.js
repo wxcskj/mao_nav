@@ -45,7 +45,7 @@ export const mockData = {
           "id": "site-1787356881319",
           "name": "秒悟",
           "url": "https://meoo.com",
-          "description": "AI 应用创作平台‌，会编程、懂设计、自部署的 AI 伙伴",
+          "description": "AI应用创作平台‌",
           "icon": "https://assets.cdn.meoo.host/public/meoo-logo.png"
         }
       ]
