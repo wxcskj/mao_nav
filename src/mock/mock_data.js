@@ -792,9 +792,9 @@ export const mockData = {
         {
           "id": "site-1770593460928",
           "name": "临时邮箱",
-          "url": "https://www.linshiyouxiang.net",
+          "url": "https://boomlify.com/zh/gmail-temp-mail",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.linshiyouxiang.net"
+          "icon": "https://www.faviconextractor.com/favicon/boomlify.com"
         },
         {
           "id": "site-1770593620271",
@@ -908,6 +908,13 @@ export const mockData = {
           "url": "https://wispbyte.com/client/dashboard",
           "description": "免费VPS（德国ip）",
           "icon": "https://www.faviconextractor.com/favicon/wispbyte.com"
+        },
+        {
+          "id": "site-1790500334276",
+          "name": "ByteVirt",
+          "url": "https://bytevirt.com/clientarea.php",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/bytevirt.com"
         }
       ]
     },
