@@ -1563,6 +1563,13 @@ export const mockData = {
           "url": "https://www.zhipin.com",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.zhipin.com"
+        },
+        {
+          "id": "site-1791179277260",
+          "name": "健康证",
+          "url": "https://riu00hm0khzr.meoo.run",
+          "description": "",
+          "icon": ""
         }
       ]
     }
