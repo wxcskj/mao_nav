@@ -7,13 +7,6 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1752649007053",
-          "name": "BeJson",
-          "url": "https://www.bejson.com/",
-          "description": "工具大全",
-          "icon": "/sitelogo/www.bejson.com.ico"
-        },
-        {
           "id": "linux-do",
           "name": "Linux.do",
           "url": "https://www.reddit.com",
@@ -28,13 +21,6 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
-          "id": "curlconverter",
-          "name": "curl converter",
-          "url": "https://curlconverter.com/",
-          "description": "curl命令转换工具",
-          "icon": "/sitelogo/curlconverter.com.ico"
-        },
-        {
           "id": "site-1779524874391",
           "name": "Promptr",
           "url": "https://promptr.co/",
@@ -47,6 +33,13 @@ export const mockData = {
           "url": "https://meoo.com",
           "description": "AI应用创作平台‌",
           "icon": "https://assets.cdn.meoo.host/public/meoo-logo.png"
+        },
+        {
+          "id": "site-1791188104922",
+          "name": "拾遗",
+          "url": "https://xkd5vo4utcym.meoo.zone",
+          "description": "碎片化知识",
+          "icon": ""
         }
       ]
     },
