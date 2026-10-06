@@ -1563,6 +1563,27 @@ export const mockData = {
           "url": "https://riu00hm0khzr.meoo.run",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1791251937493",
+          "name": "中国公共招聘网",
+          "url": "http://job.mohrss.gov.cn/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1791251971317",
+          "name": "中国国家人才网",
+          "url": "https://www.newjobs.com.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/job.mohrss.gov.cn"
+        },
+        {
+          "id": "site-1791251993978",
+          "name": "就业在线",
+          "url": "https://jobonline.cn/",
+          "description": "",
+          "icon": ""
         }
       ]
     }
