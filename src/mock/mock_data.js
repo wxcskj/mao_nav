@@ -1014,6 +1014,13 @@ export const mockData = {
           "url": "https://m3u8-player.net/",
           "description": "M3U8 Player",
           "icon": "https://www.faviconextractor.com/favicon/m3u8-player.net"
+        },
+        {
+          "id": "site-1791276563102",
+          "name": "文档对比",
+          "url": "https://compare2word.com/zh",
+          "description": "在线比对Word文档",
+          "icon": ""
         }
       ]
     },
