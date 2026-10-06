@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://xkd5vo4utcym.meoo.zone",
           "description": "碎片化知识",
           "icon": ""
+        },
+        {
+          "id": "site-1791288108579",
+          "name": "Prompt Optimizer",
+          "url": "https://prompt.always200.com",
+          "description": "提示词优化器",
+          "icon": "https://www.faviconextractor.com/favicon/prompt.always200.com"
         }
       ]
     },
