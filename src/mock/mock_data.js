@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://prompt.always200.com",
           "description": "提示词优化器",
           "icon": "https://www.faviconextractor.com/favicon/prompt.always200.com"
+        },
+        {
+          "id": "site-1791337563797",
+          "name": "Running Man",
+          "url": "https://riu00hm0khzr.meoo.run",
+          "description": "",
+          "icon": ""
         }
       ]
     },
