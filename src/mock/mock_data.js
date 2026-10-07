@@ -1633,6 +1633,13 @@ export const mockData = {
           "url": "https://my.greenhouse.io/dashboard",
           "description": "ai职位招募",
           "icon": ""
+        },
+        {
+          "id": "site-1791339135653",
+          "name": "威客",
+          "url": "https://www.freelancer.cn/",
+          "description": "自由职业",
+          "icon": ""
         }
       ]
     }
