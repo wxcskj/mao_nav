@@ -1605,6 +1605,34 @@ export const mockData = {
           "url": "https://jobonline.cn/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1791338234009",
+          "name": "模兜",
+          "url": "https://zhujie100.com/",
+          "description": "AI训练任务",
+          "icon": ""
+        },
+        {
+          "id": "site-1791338840397",
+          "name": "Xpert专家社区",
+          "url": "https://www.corexpertdata.com/",
+          "description": "大模型标注",
+          "icon": ""
+        },
+        {
+          "id": "site-1791338898883",
+          "name": "OpenTrain",
+          "url": "https://www.opentrain.ai/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1791338987786",
+          "name": "greenhouse",
+          "url": "https://my.greenhouse.io/dashboard",
+          "description": "ai职位招募",
+          "icon": ""
         }
       ]
     }
