@@ -153,6 +153,20 @@ export const mockData = {
           "url": "https://chat.notdiamond.ai/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/chat.notdiamond.ai"
+        },
+        {
+          "id": "site-1791440802273",
+          "name": "Manus2.0",
+          "url": "https://manus.im/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/manus.im"
+        },
+        {
+          "id": "site-1791441163625",
+          "name": "Muse",
+          "url": "https://muse.ai/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/muse.ai"
         }
       ]
     },
