@@ -565,34 +565,6 @@ export const mockData = {
       "order": 5,
       "sites": [
         {
-          "id": "mdn",
-          "name": "MDN Web Docs",
-          "url": "https://developer.mozilla.org",
-          "description": "Web开发权威文档",
-          "icon": "/sitelogo/developer.mozilla.org.ico"
-        },
-        {
-          "id": "w3school",
-          "name": "W3Schools",
-          "url": "https://www.w3schools.com",
-          "description": "Web技术教程",
-          "icon": "/sitelogo/www.w3schools.com.ico"
-        },
-        {
-          "id": "runoob",
-          "name": "菜鸟教程",
-          "url": "https://www.runoob.com",
-          "description": "编程技术教程",
-          "icon": "/sitelogo/www.runoob.com.ico"
-        },
-        {
-          "id": "coursera",
-          "name": "Coursera",
-          "url": "https://www.coursera.org",
-          "description": "在线课程平台",
-          "icon": "/sitelogo/www.coursera.org.ico"
-        },
-        {
           "id": "site-1770593004285",
           "name": "LITEAPKS（教育 apk）",
           "url": "https://liteapks.com/apps/education",
@@ -614,13 +586,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.iplaysoft.com"
         },
         {
-          "id": "site-1770593864604",
-          "name": "国王软件",
-          "url": "https://www.52king.vip/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.52king.vip"
-        },
-        {
           "id": "site-1770593879473",
           "name": "绿软小站",
           "url": "https://www.gndown.com/",
@@ -633,13 +598,6 @@ export const mockData = {
           "url": "https://www.423down.com",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.423down.com"
-        },
-        {
-          "id": "site-1770596021423",
-          "name": "奇客小栈",
-          "url": "http://www.geekotg.com",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.geekotg.com"
         },
         {
           "id": "site-1770596037542",
@@ -675,13 +633,6 @@ export const mockData = {
           "url": "https://tv.cctv.com/yxg/index.shtml",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/tv.cctv.com"
-        },
-        {
-          "id": "site-1770593484168",
-          "name": "音乐搜索器",
-          "url": "http://www.xmsj.org",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.xmsj.org"
         },
         {
           "id": "site-1770593796588",
