@@ -8,10 +8,17 @@ export const mockData = {
       "sites": [
         {
           "id": "linux-do",
-          "name": "Linux.do",
+          "name": "Reddit",
           "url": "https://www.reddit.com",
-          "description": "互联网的核心",
+          "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.reddit.com"
+        },
+        {
+          "id": "site-1791884774223",
+          "name": "LINUX DO",
+          "url": "https://linux.do/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/linux.do"
         },
         {
           "id": "github",
