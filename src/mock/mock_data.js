@@ -1164,6 +1164,13 @@ export const mockData = {
           "url": "https://kua.aigenprompt.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/kua.aigenprompt.com"
+        },
+        {
+          "id": "site-1792469139247",
+          "name": "AI专家角色库",
+          "url": "https://ao.aiolaola.com/experts",
+          "description": "agency-orchestrator（github）",
+          "icon": "https://www.faviconextractor.com/favicon/ao.aiolaola.com"
         }
       ]
     },
