@@ -566,10 +566,60 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1770609532437",
+      "icon": "🔍",
+      "name": "提示词",
+      "order": 5,
+      "sites": [
+        {
+          "id": "site-1770585334629",
+          "name": "YouMind",
+          "url": "https://youmind.com/zh-CN/nano-banana-pro-prompts",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/youmind.com"
+        },
+        {
+          "id": "site-1770585358626",
+          "name": "ExplainThis",
+          "url": "https://www.explainthis.io/zh-hans/chatgpt",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.explainthis.io"
+        },
+        {
+          "id": "site-1770585367418",
+          "name": "AI Short",
+          "url": "https://www.aishort.top/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.aishort.top"
+        },
+        {
+          "id": "site-1770585378189",
+          "name": "Edit prompt",
+          "url": "https://platform.openai.com/chat/edit?models=gpt-5&optimize=true",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/platform.openai.com"
+        },
+        {
+          "id": "site-1770585388436",
+          "name": "跨境电商 ChatGPT 提示词生成器",
+          "url": "https://kua.aigenprompt.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/kua.aigenprompt.com"
+        },
+        {
+          "id": "site-1792469139247",
+          "name": "AI专家角色库",
+          "url": "https://ao.aiolaola.com/experts",
+          "description": "agency-orchestrator（github）",
+          "icon": "https://www.faviconextractor.com/favicon/ao.aiolaola.com"
+        }
+      ]
+    },
+    {
       "id": "learning",
       "name": "资源合集",
       "icon": "📚",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "site-1770593004285",
@@ -745,7 +795,7 @@ export const mockData = {
       "id": "category-1770592685312",
       "icon": "📊",
       "name": "在线信息",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "site-1770593026357",
@@ -809,7 +859,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "cloudflare",
@@ -901,7 +951,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "json-formatter",
@@ -1014,7 +1064,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "binance",
@@ -1078,7 +1128,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "stackoverflow",
@@ -1121,56 +1171,6 @@ export const mockData = {
           "url": "https://www.right.com.cn/",
           "description": "无线路由器交流",
           "icon": "https://www.faviconextractor.com/favicon/www.right.com.cn"
-        }
-      ]
-    },
-    {
-      "id": "category-1770609532437",
-      "icon": "📁",
-      "name": "提示词",
-      "order": 11,
-      "sites": [
-        {
-          "id": "site-1770585334629",
-          "name": "YouMind",
-          "url": "https://youmind.com/zh-CN/nano-banana-pro-prompts",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/youmind.com"
-        },
-        {
-          "id": "site-1770585358626",
-          "name": "ExplainThis",
-          "url": "https://www.explainthis.io/zh-hans/chatgpt",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.explainthis.io"
-        },
-        {
-          "id": "site-1770585367418",
-          "name": "AI Short",
-          "url": "https://www.aishort.top/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.aishort.top"
-        },
-        {
-          "id": "site-1770585378189",
-          "name": "Edit prompt",
-          "url": "https://platform.openai.com/chat/edit?models=gpt-5&optimize=true",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/platform.openai.com"
-        },
-        {
-          "id": "site-1770585388436",
-          "name": "跨境电商 ChatGPT 提示词生成器",
-          "url": "https://kua.aigenprompt.com/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/kua.aigenprompt.com"
-        },
-        {
-          "id": "site-1792469139247",
-          "name": "AI专家角色库",
-          "url": "https://ao.aiolaola.com/experts",
-          "description": "agency-orchestrator（github）",
-          "icon": "https://www.faviconextractor.com/favicon/ao.aiolaola.com"
         }
       ]
     },
@@ -1255,7 +1255,7 @@ export const mockData = {
     },
     {
       "id": "category-1770591727224",
-      "icon": "📁",
+      "icon": "🛠️",
       "name": "电商后台",
       "order": 14,
       "sites": [
@@ -1319,7 +1319,7 @@ export const mockData = {
     },
     {
       "id": "category-1770592612452",
-      "icon": "📁",
+      "icon": "🌐",
       "name": "视频处理",
       "order": 15,
       "sites": [
@@ -1383,7 +1383,7 @@ export const mockData = {
     },
     {
       "id": "category-1770592653242",
-      "icon": "📁",
+      "icon": "🌐",
       "name": "文字生成",
       "order": 16,
       "sites": [
@@ -1482,7 +1482,7 @@ export const mockData = {
     },
     {
       "id": "category-1770592668612",
-      "icon": "📁",
+      "icon": "📊",
       "name": "业务运营",
       "order": 17,
       "sites": [
@@ -1518,7 +1518,7 @@ export const mockData = {
     },
     {
       "id": "category-1770592692994",
-      "icon": "📁",
+      "icon": "👥",
       "name": "找工作",
       "order": 18,
       "sites": [
