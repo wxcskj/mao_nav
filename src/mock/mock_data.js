@@ -396,10 +396,10 @@ export const mockData = {
         },
         {
           "id": "site-1770593652382",
-          "name": "绘蛙",
-          "url": "https://www.ihuiwa.com/workspace/ai-image/partial-redraw",
+          "name": "千问办公",
+          "url": "https://qwenwork.cn/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.ihuiwa.com"
+          "icon": "https://www.faviconextractor.com/favicon/qwenwork.cn"
         },
         {
           "id": "site-1770593943684",
