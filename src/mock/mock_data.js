@@ -71,25 +71,67 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
-          "id": "site-1770591421211",
-          "name": "Gemini",
-          "url": "https://gemini.google.com/",
-          "description": "谷歌出品",
-          "icon": "/sitelogo/google_icon.ico"
-        },
-        {
           "id": "chatgpt",
           "name": "ChatGPT",
           "url": "https://chat.openai.com",
-          "description": "OpenAI对话AI助手",
+          "description": "六边形战士",
           "icon": "/sitelogo/chat.openai.com.ico"
+        },
+        {
+          "id": "site-1792736918145",
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "description": "长文本、代码编程",
+          "icon": "https://www.faviconextractor.com/favicon/claude.ai"
         },
         {
           "id": "site-1770587424431",
           "name": "Grok",
           "url": "https://grok.com/",
-          "description": "马斯克出品",
+          "description": "下三路",
           "icon": "https://www.faviconextractor.com/favicon/grok.com"
+        },
+        {
+          "id": "site-1770591421211",
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "description": "多模态（图、视频、音频）",
+          "icon": "/sitelogo/google_icon.ico"
+        },
+        {
+          "id": "site-1770591360809",
+          "name": "豆包",
+          "url": "https://www.doubao.com",
+          "description": "全民级",
+          "icon": "/sitelogo/doubao_icon.ico"
+        },
+        {
+          "id": "site-1770587433289",
+          "name": "DeepSeek",
+          "url": "https://chat.deepseek.com/",
+          "description": "适合开发",
+          "icon": "https://www.faviconextractor.com/favicon/chat.deepseek.com"
+        },
+        {
+          "id": "site-1792737582534",
+          "name": "智谱清言",
+          "url": "https://chatglm.cn/",
+          "description": "claude平替",
+          "icon": "https://www.faviconextractor.com/favicon/chatglm.cn"
+        },
+        {
+          "id": "site-1770587477259",
+          "name": "Kimi",
+          "url": "https://kimi.moonshot.cn",
+          "description": "海量文本",
+          "icon": "https://www.faviconextractor.com/favicon/kimi.moonshot.cn"
+        },
+        {
+          "id": "site-1791441163625",
+          "name": "Muse",
+          "url": "https://muse.ai/",
+          "description": "AI助理 For Meta",
+          "icon": "https://www.faviconextractor.com/favicon/muse.ai"
         },
         {
           "id": "site-1770591387881",
@@ -99,18 +141,11 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/copilot.microsoft.com"
         },
         {
-          "id": "site-1770587433289",
-          "name": "DeepSeek",
-          "url": "https://chat.deepseek.com/",
-          "description": "深度求索",
-          "icon": "https://www.faviconextractor.com/favicon/chat.deepseek.com"
-        },
-        {
-          "id": "site-1770591360809",
-          "name": "豆包",
-          "url": "https://www.doubao.com",
-          "description": "字节出品",
-          "icon": "/sitelogo/doubao_icon.ico"
+          "id": "site-1791440802273",
+          "name": "Manus2.0",
+          "url": "https://manus.im/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/manus.im"
         },
         {
           "id": "site-1770587468468",
@@ -125,20 +160,6 @@ export const mockData = {
           "url": "https://you.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/you.com"
-        },
-        {
-          "id": "site-1770587477259",
-          "name": "Kimi",
-          "url": "https://kimi.moonshot.cn",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/kimi.moonshot.cn"
-        },
-        {
-          "id": "site-1770587486062",
-          "name": "文心一言",
-          "url": "https://yiyan.baidu.com",
-          "description": "百度出品",
-          "icon": "https://www.faviconextractor.com/favicon/yiyan.baidu.com"
         },
         {
           "id": "site-1770587406827",
@@ -160,20 +181,6 @@ export const mockData = {
           "url": "https://chat.notdiamond.ai/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/chat.notdiamond.ai"
-        },
-        {
-          "id": "site-1791440802273",
-          "name": "Manus2.0",
-          "url": "https://manus.im/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/manus.im"
-        },
-        {
-          "id": "site-1791441163625",
-          "name": "Muse",
-          "url": "https://muse.ai/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/muse.ai"
         }
       ]
     },
