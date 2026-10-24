@@ -795,6 +795,13 @@ export const mockData = {
           "url": "https://windows64.net/",
           "description": "windows俄罗斯精简系统",
           "icon": "https://www.faviconextractor.com/favicon/windows64.net"
+        },
+        {
+          "id": "site-1792821270871",
+          "name": "Cola Skill",
+          "url": "https://colaskill.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/colaskill.com"
         }
       ]
     },
