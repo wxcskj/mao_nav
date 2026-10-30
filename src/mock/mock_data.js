@@ -619,6 +619,20 @@ export const mockData = {
           "url": "https://ao.aiolaola.com/experts",
           "description": "agency-orchestrator（github）",
           "icon": "https://www.faviconextractor.com/favicon/ao.aiolaola.com"
+        },
+        {
+          "id": "site-1793358252128",
+          "name": "Skill商店",
+          "url": "https://hub.cocoloop.cn/",
+          "description": "CocoLoop更安全的Skill市场",
+          "icon": "https://www.faviconextractor.com/favicon/hub.cocoloop.cn"
+        },
+        {
+          "id": "site-1792821270871",
+          "name": "Cola Skill",
+          "url": "https://colaskill.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/colaskill.com"
         }
       ]
     },
@@ -795,13 +809,6 @@ export const mockData = {
           "url": "https://windows64.net/",
           "description": "windows俄罗斯精简系统",
           "icon": "https://www.faviconextractor.com/favicon/windows64.net"
-        },
-        {
-          "id": "site-1792821270871",
-          "name": "Cola Skill",
-          "url": "https://colaskill.com/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/colaskill.com"
         }
       ]
     },
