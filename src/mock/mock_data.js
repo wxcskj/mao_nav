@@ -21,13 +21,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/linux.do"
         },
         {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
           "id": "site-1779524874391",
           "name": "Promptr",
           "url": "https://promptr.co/",
@@ -59,6 +52,13 @@ export const mockData = {
           "id": "site-1791337563797",
           "name": "Running Man",
           "url": "https://riu00hm0khzr.meoo.run",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1793357187420",
+          "name": "作业助手",
+          "url": "https://d34wq4bh1el4.meoo.zone",
           "description": "",
           "icon": ""
         }
