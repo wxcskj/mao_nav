@@ -181,6 +181,20 @@ export const mockData = {
           "url": "https://chat.notdiamond.ai/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/chat.notdiamond.ai"
+        },
+        {
+          "id": "site-1793360902230",
+          "name": "YandexGPT",
+          "url": "https://alice.yandex.ru/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/alice.yandex.ru"
+        },
+        {
+          "id": "site-1793360979369",
+          "name": "GigaChat",
+          "url": "https://giga.chat/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/giga.chat"
         }
       ]
     },
