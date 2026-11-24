@@ -862,10 +862,10 @@ export const mockData = {
         },
         {
           "id": "site-1770593620271",
-          "name": "Receive SMS Online",
-          "url": "https://receive-smss.com",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/receive-smss.com"
+          "name": "smsportal",
+          "url": "https://smsportal.io",
+          "description": "US+1",
+          "icon": "https://www.faviconextractor.com/favicon/smsportal.io"
         },
         {
           "id": "site-1770595949788",
